@@ -49,7 +49,3 @@ I am a dedicated and results-oriented professional with a strong background in d
 ## 📚 Relevant Coursework
 - **Python (Basic)** - HackerRank (April 2024 - May 2024)
 - **SQL (Advanced)** - HackerRank (February 2024 - May 2024)
-
-## 🌐 Links
-- [Presentation 1](https://docs.google.com/presentation/d/1Kc0UtD37VTZKX8opDup9zZ-8MkWWtVMk/edit?usp=drive_link&ouid=103326546459653205295&rtpof=true&sd=true)
-- [Presentation 2](https://docs.google.com/presentation/d/1_p_2Klf9pZkF9tq7n0peJDV_P4K5GY_H/edit?usp=drive_link&ouid=103326546459653205295&rtpof=true&sd=true)
