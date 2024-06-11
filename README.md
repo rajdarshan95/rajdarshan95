@@ -8,7 +8,7 @@ I am a dedicated and results-oriented professional with a strong background in d
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/darshang029)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-green)](https://www.hackerrank.com/profile/darshanraj927)
-[![LeetCode](https://img.shields.io/badge/-HackerRank-green)](https://leetcode.com/u/rajdarshan95/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-pink)](https://leetcode.com/u/rajdarshan95/)
 
 ## 🔍 About Me
 - 🔭 Currently working at Concentrix Daksh Services
