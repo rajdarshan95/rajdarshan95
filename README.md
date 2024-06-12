@@ -25,19 +25,27 @@ I am a dedicated and results-oriented professional with a strong background in d
 - **IDEs**: VS Code, PyCharm
 
 ## 📊 Projects
+### HR Analytics Project <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="100"/>
 
-### [Amazon Sales Data Analysis](https://github.com/yourusername/amazon-sales-analysis)
 - **Duration**: May 2024
-- **Description**: Increased total sales revenue by analyzing and identifying key drivers, resulting in a cumulative sales value of $322,966.75.
-- **Key Insights**:
+- **Description**: This project analyzes HR data to identify trends and insights related to employee performance, attrition, and satisfaction. The analysis aims to provide actionable insights for improving HR policies and practices.
+- **Key Insights**:-
+- **Attrition Rate**: 15%
+- **Average Employee Satisfaction Score**: 4.2/5
+- **Top Factors Influencing Attrition**: Work-life balance, job satisfaction, and salary.
+
+### [Amazon Sales Data Analysis](https://github.com/yourusername/amazon-sales-analysis) <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="100"/>
+  - **Duration**: May 2024
+  - **Description**: Increased total sales revenue by analyzing and identifying key drivers, resulting in a cumulative sales value of $322,966.75.
+  - **Key Insights**:-
   - Branch C contributed the highest revenue with 34.2% of total sales.
   - 'Food and Beverages' accounted for 17.4% of total sales, the highest among all product lines.
   - Female customers contributed 52.0% to total sales, indicating higher purchasing power compared to males (48.0%).
 
-### [OTP Verification System](https://github.com/yourusername/otp-verification-system)
+### [OTP Verification System](https://github.com/yourusername/otp-verification-system) <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="100"/>
 - **Duration**: May 2024
 - **Description**: Designed and developed a secure OTP (One-Time Password) verification system using Python and Tkinter, ensuring user authentication through email.
-- **Features**:
+- **Features**:-
   - Integrated email functionality using smtplib for automatic OTP generation and sending.
   - Created an intuitive GUI using Tkinter for user interaction.
   - Implemented security features like hidden OTP entry and limited verification attempts.
