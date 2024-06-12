@@ -25,7 +25,16 @@ I am a dedicated and results-oriented professional with a strong background in d
 - **IDEs**: VS Code, PyCharm
 
 ## 📊 Projects
-### HR Analytics Project <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="100"/>
+
+### [Odin E-commerce Sales Project] <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="100"/>
+
+- **Duration**: May 2024
+- **Description**: This project analyzes HR data to identify trends and insights related to odin E-commerce Sales, Sales Performance,Customer Insights and Product Performance. The analysis aims to provide actionable insights for improving Odin E-commerce sales.
+- **Key Insights**:-
+- **Attrition Rate**: 15%
+- **Average Employee Satisfaction Score**: 4.2/5
+- **Top Factors Influencing Attrition**: Work-life balance, job satisfaction, and salary.
+### [HR Analytics Project] <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="100"/>
 
 - **Duration**: May 2024
 - **Description**: This project analyzes HR data to identify trends and insights related to employee performance, attrition, and satisfaction. The analysis aims to provide actionable insights for improving HR policies and practices.
