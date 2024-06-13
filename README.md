@@ -36,7 +36,7 @@ I am a dedicated and results-oriented professional with a strong background in d
 - **Top-Selling Product**: Printers
 - **Top Region by Sales**: Maharashtra
   
-### [HR Analytics Project] <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="100"/>
+### [HR Analytics Project](https://github.com/rajdarshan95/HR_Analytic_PowerBi) <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="100"/>
 
 - **Duration**: May 2024
 - **Description**: This project analyzes HR data to identify trends and insights related to employee performance, attrition, and satisfaction. The analysis aims to provide actionable insights for improving HR policies and practices.
