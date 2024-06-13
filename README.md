@@ -29,7 +29,7 @@ I am a dedicated and results-oriented professional with a strong background in d
 ### [Odin E-commerce Sales Project](https://github.com/rajdarshan95/Odin-Ecom-Sales-Report) <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="100"/>
 
 - **Duration**: May 2024
-- **Description**: This project analyzes HR data to identify trends and insights related to odin E-commerce Sales, Sales Performance,Customer Insights and Product Performance. The analysis aims to provide actionable insights for improving Odin E-commerce sales.
+- **Description**: This project analyzes Odin E-commerce sales data data to identify trends and insights related to odin E-commerce Sales, Sales Performance,Customer Insights and Product Performance. The analysis aims to provide actionable insights for improving Odin E-commerce sales.
 - **Key Insights**:-
 - **Average Order Value**: $875.54
 - **Average Orders per Customer**: 1.49
