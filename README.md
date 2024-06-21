@@ -45,6 +45,18 @@ I am a dedicated and results-oriented professional with a strong background in d
 - **Average Employee Satisfaction Score**: 4.2/5
 - **Top Factors Influencing Attrition**: Work-life balance, job satisfaction, and salary.
 
+### [Super Store Sales Analysis](https://github.com/rajdarshan95/SuperStore_Sales_Analysis) <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="100"/>
+
+🔍 Interactive Sales Dashboard: Created a dynamic dashboard that provides an at-a-glance view of key sales metrics, including total revenue, quantity sold, and profit margins.
+
+📆 Yearly Sales Trends: Tracked sales trends YoY to identify peak periods and areas needing attention.
+
+📚 Product Category Insights: Analyzed performance across product categories, revealing top performers such as Technology with 36%.
+
+🛒 Cart Value Insights: Segmented sales data to uncover cart value preferences, showing that the "Low" cart value segment gave the highest total sales, followed by "Medium" and "High."
+
+💳 Shipment Method Analysis: A detailed examination of shipment methods showed that Standard class was the most dominant, followed by Second class and First class.
+
 ### [Amazon Sales Data Analysis](https://github.com/yourusername/amazon-sales-analysis) <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="100"/>
   - **Duration**: May 2024
   - **Description**: Increased total sales revenue by analyzing and identifying key drivers, resulting in a cumulative sales value of $322,966.75.
