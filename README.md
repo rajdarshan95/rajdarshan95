@@ -57,6 +57,22 @@ I am a dedicated and results-oriented professional with a strong background in d
 
 💳 Shipment Method Analysis: A detailed examination of shipment methods showed that Standard class was the most dominant, followed by Second class and First class.
 
+### [Bike Sales Analysis](https://github.com/rajdarshan95/Bike_Sales_Excel/edit/main/README.md)<img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" alt="Excel" width="100"/>
+
+
+
+## Key Highlights
+
+- **Average Income per Purchase:** Visualized by gender to understand purchasing power.
+- **Bike Purchase by Age:** Categorized to identify target age groups.
+- **Customer Commute Analysis:** Examined commute distances to tailor marketing efforts.
+
+## Filters
+
+- **Marital Status**
+- **Occupation**
+- **Education Level**
+
 ### [Amazon Sales Data Analysis](https://github.com/yourusername/amazon-sales-analysis) <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="100"/>
   - **Duration**: May 2024
   - **Description**: Increased total sales revenue by analyzing and identifying key drivers, resulting in a cumulative sales value of $322,966.75.
